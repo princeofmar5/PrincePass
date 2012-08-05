@@ -1,0 +1,8 @@
+name: PrincePass
+main: com.github.princeofmar5.PrincePass
+version: 1.0
+author: Princeofmar5
+commands:
+   ppass:
+      description: Allows you to do stuff
+      usage: /<command> [password]
